@@ -11,25 +11,6 @@
 
 ---
 
-### 🛠️ Tech & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="40" alt="Wireshark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" alt="Packet Tracer" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
@@ -51,6 +32,27 @@
 </p>
 
 ---
+
+### 🛠️ Tech & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="40" alt="Wireshark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" alt="Packet Tracer" />
+</p>
+
+---
+
+
 
 ### 📊 GitHub Stats
 
